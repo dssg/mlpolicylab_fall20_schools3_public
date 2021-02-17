@@ -1,0 +1,7 @@
+pandas
+numpy
+SQLAlchemy
+sqlparse
+matplotlib
+seaborn
+inflection
